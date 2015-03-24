@@ -1,3 +1,6 @@
 [submodule "MSP-IoT-Kit-Overview"]
 	path = MSP-IoT-Kit-Overview
 	url = https://github.com/mspcontent/MSP-IoT-Kit-Overview
+[submodule "Spark-Core-Configuration"]
+	path = Spark-Core-Configuration
+	url = https://github.com/mspcontent/Spark-Core-Configuration
