@@ -4,3 +4,6 @@
 [submodule "Spark-Core-Configuration"]
 	path = Spark-Core-Configuration
 	url = https://github.com/mspcontent/Spark-Core-Configuration
+[submodule "Creating-Your-First-Internet-Connected-Device"]
+	path = Creating-Your-First-Internet-Connected-Device
+	url = https://github.com/mspcontent/Creating-Your-First-Internet-Connected-Device
